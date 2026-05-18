@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌾✨ AGRISENSE
+# 🌾 AGRISENSE
 ### *AI Powered Precision Agriculture Ecosystem*
 
 <img src="https://img.shields.io/badge/STATUS-Prototype-success?style=for-the-badge">
