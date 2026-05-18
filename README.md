@@ -18,32 +18,6 @@
 
 </div>
 
----
-
-# 📖 Table of Contents
-
-- Overview
-- Vision
-- Problem Statement
-- Solution Architecture
-- Features
-- Hardware Components
-- Software Stack
-- System Workflow
-- AI Module
-- Mobile Application
-- Innovation Highlights
-- Architecture Diagram
-- Future Scope
-- Market Opportunity
-- SDG Alignment
-- Project Impact
-- Installation
-- Team Vision
-- License
-
----
-
 # 🌍 Overview
 
 Agriculture remains the backbone of many economies, yet a large portion of farming still depends on manual observation, traditional practices, and delayed decision-making.
