@@ -163,7 +163,7 @@ The platform combines sensing technologies, automation, cloud connectivity, and 
 | LDR Sensor  | Sunlight intensity analysis |
 
 ---
-## NPK VALUE ANALYSIS
+# NPK VALUE ANALYSIS
 
 <div align="center">
 
@@ -175,31 +175,64 @@ The platform combines sensing technologies, automation, cloud connectivity, and 
 
 </div>
 
-### Intelligent Recommendation Logic
+---
 
-```text id="kvlvjn"
+# SMART SOIL RECOMMENDATION ENGINE
+
+```text id="jlwmpt"
 IF Nitrogen = LOW
-    → Recommend Nitrogen Fertilizer
+        → Recommend Nitrogen Fertilizer
 
 IF Phosphorus = LOW
-    → Improve Root Nutrients
+        → Improve Root Development
 
 IF Potassium = LOW
-    → Enhance Crop Resistance
+        → Enhance Crop Resistance
 
 IF NPK = BALANCED
-    → Maintain Current Soil Condition
+        → Maintain Current Soil Condition
 ```
 
 ---
 
-# RESEARCH & REFERENCES
+# SOIL ANALYTICS EXAMPLE
 
-| Reference                                                                                      | Description                                                                        |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [PMC Research Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8972053/?utm_source=chatgpt.com) | Research reference related to smart agriculture and intelligent monitoring systems |
+```yaml
+Moisture: 32%
 
-AgriSense is inspired by ongoing advancements in precision agriculture, AI-based farming systems, soil intelligence, and sustainable agricultural automation.
+pH: 6.4
+
+Nitrogen: LOW
+
+Phosphorus: NORMAL
+
+Potassium: HIGH
+
+Recommendation:
+
+→ Increase nitrogen fertilizer
+→ Start irrigation
+→ Suitable crops:
+Rice
+Potato
+Tomato
+```
+
+---
+
+# RESEARCH REFERENCES
+
+| Reference                                                                                                                                                         | Description                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC8972053/                                                                                                                 | Smart agriculture and intelligent monitoring systems research                        |
+| https://www.researchgate.net/publication/242418561_Effect_of_Different_Levels_of_NPK_on_the_Growth_and_Yield_of_Cucumber_Cucumis_sativus_Under_the_Plastic_Tunnel | Research on the impact of NPK levels on crop growth and productivity                 |
+| https://cropnuts.com/nitrogen-phosphorus-potassium-npk-fertilizers/                                                                                               | Agricultural reference for Nitrogen, Phosphorus, and Potassium fertilizer management |
+
+---
+
+# TECHNICAL NOTE
+
+The AgriSense NPK analysis module continuously evaluates soil fertility and nutrient balance using real-time sensor measurements. Based on nutrient conditions, the AI engine generates intelligent fertilizer recommendations, irrigation decisions, and crop suitability analysis for precision agriculture applications.
 
 
 # SMART IRRIGATION SYSTEM
