@@ -78,10 +78,10 @@ The platform combines sensing technologies, automation, cloud connectivity, and 
                          CLOUD PLATFORM
                                 │
 
-         ┌──────────────────────────────────┐
-         │        AGRISENSE APPLICATION      │
-         │  Analytics • Reports • AI Layer  │
-         └──────────────────────────────────┘
+              ┌──────────────────────────────────┐
+                      AGRISENSE APPLICATION    
+                 Analytics • Reports • AI Layer  
+              └──────────────────────────────────┘
                                 │
                            WiFi Module
                                 │
