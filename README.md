@@ -163,6 +163,44 @@ The platform combines sensing technologies, automation, cloud connectivity, and 
 | LDR Sensor  | Sunlight intensity analysis |
 
 ---
+## NPK VALUE ANALYSIS
+
+<div align="center">
+
+| Nutrient Level | Nitrogen (N)    | Phosphorus (P) | Potassium (K)   | Soil Condition     |
+| -------------- | --------------- | -------------- | --------------- | ------------------ |
+| LOW            | < 150 kg/ha     | < 10 kg/ha     | < 120 kg/ha     | Poor Fertility     |
+| MEDIUM         | 150 – 300 kg/ha | 10 – 25 kg/ha  | 120 – 280 kg/ha | Moderate Fertility |
+| HIGH           | > 300 kg/ha     | > 25 kg/ha     | > 280 kg/ha     | High Fertility     |
+
+</div>
+
+### Intelligent Recommendation Logic
+
+```text id="kvlvjn"
+IF Nitrogen = LOW
+    → Recommend Nitrogen Fertilizer
+
+IF Phosphorus = LOW
+    → Improve Root Nutrients
+
+IF Potassium = LOW
+    → Enhance Crop Resistance
+
+IF NPK = BALANCED
+    → Maintain Current Soil Condition
+```
+
+---
+
+# RESEARCH & REFERENCES
+
+| Reference                                                                                      | Description                                                                        |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [PMC Research Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8972053/?utm_source=chatgpt.com) | Research reference related to smart agriculture and intelligent monitoring systems |
+
+AgriSense is inspired by ongoing advancements in precision agriculture, AI-based farming systems, soil intelligence, and sustainable agricultural automation.
+
 
 # SMART IRRIGATION SYSTEM
 
