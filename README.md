@@ -140,29 +140,6 @@ The platform combines sensing technologies, automation, cloud connectivity, and 
 </div>
 
 ---
-
-# SMART SOIL INTELLIGENCE NODE
-
-| Parameter      | Purpose                |
-| -------------- | ---------------------- |
-| Soil Moisture  | Irrigation analysis    |
-| Soil pH        | Soil acidity detection |
-| Nitrogen (N)   | Fertility monitoring   |
-| Phosphorus (P) | Nutrient analysis      |
-| Potassium (K)  | Crop health analysis   |
-
----
-
-# WEATHER MONITORING MODULE
-
-| Sensor      | Function                    |
-| ----------- | --------------------------- |
-| DHT11       | Temperature monitoring      |
-| DHT11       | Humidity analysis           |
-| Rain Sensor | Rain detection              |
-| LDR Sensor  | Sunlight intensity analysis |
-
----
 # NPK VALUE ANALYSIS
 
 <div align="center">
@@ -179,7 +156,7 @@ The platform combines sensing technologies, automation, cloud connectivity, and 
 
 # SMART SOIL RECOMMENDATION ENGINE
 
-```text id="jlwmpt"
+```text id="8l2kgi"
 IF Nitrogen = LOW
         → Recommend Nitrogen Fertilizer
 
@@ -222,18 +199,17 @@ Tomato
 
 # RESEARCH REFERENCES
 
-| Reference                                                                                                                                                         | Description                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC8972053/                                                                                                                 | Smart agriculture and intelligent monitoring systems research                        |
-| https://www.researchgate.net/publication/242418561_Effect_of_Different_Levels_of_NPK_on_the_Growth_and_Yield_of_Cucumber_Cucumis_sativus_Under_the_Plastic_Tunnel | Research on the impact of NPK levels on crop growth and productivity                 |
-| https://cropnuts.com/nitrogen-phosphorus-potassium-npk-fertilizers/                                                                                               | Agricultural reference for Nitrogen, Phosphorus, and Potassium fertilizer management |
+| Reference                                                                                                                                                                               | Description                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [PMC Research Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8972053/)                                                                                                                 | Smart agriculture and intelligent monitoring systems research                        |
+| [ResearchGate Study](https://www.researchgate.net/publication/242418561_Effect_of_Different_Levels_of_NPK_on_the_Growth_and_Yield_of_Cucumber_Cucumis_sativus_Under_the_Plastic_Tunnel) | Research on the impact of NPK levels on crop growth and productivity                 |
+| [Cropnuts NPK Guide](https://cropnuts.com/nitrogen-phosphorus-potassium-npk-fertilizers/)                                                                                               | Agricultural reference for Nitrogen, Phosphorus, and Potassium fertilizer management |
 
 ---
 
 # TECHNICAL NOTE
 
 The AgriSense NPK analysis module continuously evaluates soil fertility and nutrient balance using real-time sensor measurements. Based on nutrient conditions, the AI engine generates intelligent fertilizer recommendations, irrigation decisions, and crop suitability analysis for precision agriculture applications.
-
 
 # SMART IRRIGATION SYSTEM
 
